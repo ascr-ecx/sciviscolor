@@ -11,4 +11,4 @@ Advanced Scientific Computing Research under Award Numbers DE-AS52-06NA25396 and
 It is an artifact created for the ECX project (http://www.ecxproject.org)
 
 Primary Developer of color structures: Francesca Samsel figs@cat.utexas.edu
-Contacts for github site: Terry Turton tlturton@cat.utexas.edu or David Rogers dhr@lanl.gov
+Contacts for github site: Terry Turton tlturton@lanl.gov or David Rogers dhr@lanl.gov
